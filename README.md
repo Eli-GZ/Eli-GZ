@@ -2,7 +2,7 @@
 
 
 <div id="header">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="right"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="right" width=300 height=300/>
 
   <h3>
     💻Hi!👋 i'm Elias, i'm 27 year old and i lived in Argentina. <br>
