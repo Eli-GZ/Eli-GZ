@@ -13,5 +13,5 @@ Here you'll found all my proyects and my progress.✈️<br>
     <br>
     Thanks you!!💻<hr>
   </h3>
-  @Linkedin https://www.linkedin.com/in/elias-gonzalez717/
+  @Linkedin https://www.linkedin.com/in/elias-gz/
 </div>
