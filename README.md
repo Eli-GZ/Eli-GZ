@@ -7,7 +7,7 @@
   <h3>
     💻¡Hola Mundo!👋 Soy Elias González, tengo 28 años y soy de Argentina. <br>
     <br>
-Soy desarrollador de Back-end, actualmente especializado en proyectos de Java/Spring.<br>
+Soy desarrollador Back-end, actualmente especializado en proyectos de Java/Spring.<br>
     <br>
 Acompañame a observar mi crecimiento en IT✈️<br>
     <br>
