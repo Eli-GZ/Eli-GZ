@@ -5,13 +5,13 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" align="right" width=300 height=300/>
 
   <h3>
-    💻Hi!👋 i'm Elias, i'm 27 year old and i lived in Argentina. <br>
+    💻¡Hola Mundo!👋 Soy Elias González, tengo 28 años y soy de Argentina. <br>
     <br>
-Actually i'm a software development student.<br>
+Soy un desarrollador de Back-end, actualmente especializado en proyectos de Java/Spring.<br>
     <br>
-Here you'll found all my proyects and my progress.✈️<br>
+Acompañame a observar mi crecimiento en IT✈️<br>
     <br>
-    Thanks you!!💻<hr>
+    Muchas Gracias!!💻<hr>
   </h3>
   @Linkedin https://www.linkedin.com/in/elias-gz/
 </div>
