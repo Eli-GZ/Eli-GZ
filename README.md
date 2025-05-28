@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  👋 Bienvenido a mi perfil de GitHub. Me especializo en el desarrollo Back-End con Java. Aquí encontrarás proyectos, ideas y herramientas que utilizo en mi día a día como desarrollador.
+  👋 Bienvenido a mi perfil de GitHub. Soy Elias, me especializo en el desarrollo Back-End con Java y Springboot. Aquí encontrarás mis proyectos y herramientas que utilizo en mi día a día como desarrollador.
 </p>
 
 ---
@@ -38,7 +38,7 @@
 <p align="center">
   📧 correo@example.com &nbsp;|&nbsp;
   💼 [LinkedIn](https://linkedin.com/in/tuusuario) &nbsp;|&nbsp;
-  🌐 <a href="https://portfolio-eliasgz.netlify.app/">[Portafolio]</a>
+  🌐 <a href="https://portfolio-eliasgz.netlify.app/" target="_blank">[Portafolio]</a>
 </p>
 
 ---
