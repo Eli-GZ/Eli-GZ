@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hola, soy un Desarrollador Java! 👨‍💻☕🚀</h1>
+<h1 align="center">¡Hola, soy Desarrollador Back-end! 👨‍💻☕🚀</h1>
 
 <p align="center">
   💻⚙️🛠️🔧📦🧠📘📈📊💡🔍📌🚦🎯🧩🖱️
@@ -38,7 +38,7 @@
 <p align="center">
   📧 correo@example.com &nbsp;|&nbsp;
   💼 [LinkedIn](https://linkedin.com/in/tuusuario) &nbsp;|&nbsp;
-  🌐 [Portafolio](https://tu-sitio.com)
+  🌐 <a href="https://portfolio-eliasgz.netlify.app/">[Portafolio]</a>
 </p>
 
 ---
