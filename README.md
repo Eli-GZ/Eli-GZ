@@ -1,24 +1,48 @@
 
-
-<h1 align="center">¡Hola, soy Desarrollador Java! ☕👨‍💻✨</h1>
+<h1 align="center">¡Hola, soy un Desarrollador Java! 👨‍💻☕🚀</h1>
 
 <p align="center">
-  🚀 Backend | ☕ Java | 🔧 Spring Boot | 🐘 PostgreSQL | 🛠️ Maven | 🐳 Docker | ☁️ REST APIs
+  💻⚙️🛠️🔧📦🧠📘📈📊💡🔍📌🚦🎯🧩🖱️
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  👋 Bienvenido a mi perfil de GitHub. Me especializo en el desarrollo Back-End con Java. Aquí encontrarás proyectos, ideas y herramientas que utilizo en mi día a día como desarrollador.
 </p>
 
-<p align="center">
-  🎯 En constante aprendizaje | 💡 Apasionado por resolver problemas | 🌍 Conectando ideas con código
-</p>
+---
+
+### 🛠️ Tecnologías & Herramientas
 
 <p align="center">
-  📫 ¡Conectemos! → <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a> | 🌐 <a href="https://tusitio.com">Mi Portafolio</a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+### 🚧 Proyectos en desarrollo
+- 🔨 Backend con Java + Spring Boot
+- 🧪 Pruebas con JUnit
+- ☁️ APIs REST
+- 🐘 PostgreSQL como base de datos
+- 🔐 Seguridad con JWT y Spring Security
+
+---
+
+### 📫 Cómo contactarme
+<p align="center">
+  📧 correo@example.com &nbsp;|&nbsp;
+  💼 [LinkedIn](https://linkedin.com/in/tuusuario) &nbsp;|&nbsp;
+  🌐 [Portafolio](https://tu-sitio.com)
+</p>
+
+---
+
+<p align="center">Gracias por visitar mi perfil ❤️ ¡Sigue bajando para ver mis repositorios! 👇</p>
+📌 Cómo usarlo
+Copia y pega este bloque en tu README.md de tu repositorio d
