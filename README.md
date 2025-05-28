@@ -11,7 +11,6 @@
 <p align="center">
   🎯 En constante aprendizaje | 💡 Apasionado por resolver problemas | 🌍 Conectando ideas con código
 </p>
----
 
 ### 🛠️ Tecnologías & Herramientas
 
@@ -38,7 +37,7 @@
 
 ### 📫 Cómo contactarme
 <p align="center">
-  📧 <a href="elias.d.gonzalez25@gmail.com">[Email]</a> &nbsp;|&nbsp;
+  📧 <a href="mailto:elias.d.gonzalez25@gmail.com">[Email]</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/elias-gz/" target="_blank">[LinkedIn]</a> &nbsp;|&nbsp;
   🌐 <a href="https://portfolio-eliasgz.netlify.app/" target="_blank">[Portafolio]</a>
 </p>
