@@ -28,6 +28,7 @@
 
 ### 🚧 Proyectos en desarrollo
 - 🔨 Backend con Java + Spring Boot
+- 🖥️ Frontend con JavaScript + React
 - 🧪 Pruebas con JUnit
 - ☁️ APIs REST
 - 🐬 MySQL como base de datos
