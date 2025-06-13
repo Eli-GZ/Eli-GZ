@@ -31,7 +31,7 @@
 - 🧪 Pruebas con JUnit
 - ☁️ APIs REST
 - 🐬 MySQL como base de datos
-- 🔐 Seguridad con JWT y Spring Security
+- 🔐 Seguridad Spring Security
 
 ---
 
