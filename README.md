@@ -26,7 +26,7 @@
 
 ---
 
-### 🚧 Proyectos en desarrollo
+### 🚧 Proyectos en desarrollo con:
 - 🔨 Backend con Java + Spring Boot
 - 🖥️ Frontend con JavaScript + React
 - 🧪 Pruebas con JUnit
