@@ -1,12 +1,12 @@
 
-<h1 align="center">¡Hola, soy Desarrollador Full-stack! 👨‍💻☕🚀</h1>
+<h1 align="center">¡Hola, soy Desarrollador Back-end! 👨‍💻☕🚀</h1>
 
 <p align="center">
   💻⚙️🛠️🔧📦🧠📘📈📊💡🔍📌🚦🎯🧩🖱️
 </p>
 
 <p align="center">
-  👋 Bienvenido a mi perfil de GitHub. Soy Elias, me especializo en el desarrollo Full-stack con Java y Javascript Aquí encontrarás mis proyectos y herramientas que utilizo en mi día a día como desarrollador.
+  👋 Bienvenido a mi perfil de GitHub. Soy Elias, me especializo en el desarrollo Back-end con Java y Front-end con Javascript Aquí encontrarás mis proyectos y herramientas que utilizo en mi día a día como desarrollador.
 </p>
 <p align="center">
   🎯 En constante aprendizaje | 💡 Apasionado por resolver problemas | 🌍 Conectando ideas con código
