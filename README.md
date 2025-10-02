@@ -29,7 +29,7 @@
     </td>    
     <!-- Columna derecha: GIF -->
     <td width="50%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="GIF"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="GIF"/>
     </td>
   </tr>
 </table>
