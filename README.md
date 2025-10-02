@@ -1,18 +1,21 @@
-
 <h1 align="center">¡Hola, soy Desarrollador Back-end! 👨‍💻☕🚀</h1>
+<table width="100%" border="0">
+  <tr> 
+    <td width="50%" valign="top">
 
 <p align="center">
   💻⚙️🛠️🔧📦🧠📘📈📊💡🔍📌🚦🎯🧩🖱️
 </p>
 
-<p align="center">
-  👋 Bienvenido a mi perfil de GitHub. Soy Elias, me especializo en el desarrollo Back-end con Java y Front-end con Javascript Aquí encontrarás mis proyectos y herramientas que utilizo en mi día a día como desarrollador.
+<p align="start">
+  👋 Bienvenido a mi perfil de GitHub. Soy Elias, me especializo en el desarrollo Back-end con Java y Front-end con Javascript. Aquí encontrarás mis proyectos y herramientas que utilizo en mi día a día como desarrollador.
 </p>
+
 <p align="center">
   🎯 En constante aprendizaje | 💡 Apasionado por resolver problemas | 🌍 Conectando ideas con código
 </p>
 
-### 🛠️ Tecnologías & Herramientas
+<h3 align="center">🛠️ Tecnologías & Herramientas</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -21,8 +24,15 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+    </td>    
+    <!-- Columna derecha: GIF -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,3 +56,4 @@
 ---
 
 <p align="center">Gracias por visitar mi perfil ❤️ ¡Sigue bajando para ver mis repositorios! 👇</p>
+
