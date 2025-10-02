@@ -1,23 +1,23 @@
-<h1 align="center">¡Hola, soy Desarrollador Back-end! 👨‍💻☕🚀</h1>
+<h1 align="center" border="none">¡Bienvenidos a mi mundo! 👨‍💻☕🚀</h1>
 <table width="100%" border="0">
   <tr> 
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" border="0">
 
 <p align="center">
   💻⚙️🛠️🔧📦🧠📘📈📊💡🔍📌🚦🎯🧩🖱️
 </p>
 
 <p align="start">
-  👋 Bienvenido a mi perfil de GitHub. Soy Elias, me especializo en el desarrollo Back-end con Java y Front-end con Javascript. Aquí encontrarás mis proyectos y herramientas que utilizo en mi día a día como desarrollador.
+  👋 Hola! Soy Elias Gonzalez, me especializo en el desarrollo Back-end con Java y Front-end con Javascript. Aquí encontrarás mis proyectos y herramientas que utilizo en mi día a día como desarrollador.
 </p>
 
-<p align="center">
+<p align="start">
   🎯 En constante aprendizaje | 💡 Apasionado por resolver problemas | 🌍 Conectando ideas con código
 </p>
 
-<h3 align="center">🛠️ Tecnologías & Herramientas</h3>
+<h3 align="start">🛠️ Tecnologías & Herramientas</h3>
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue"/>
@@ -27,14 +27,12 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
     </td>    
-    <!-- Columna derecha: GIF -->
     <td width="50%" align="center" valign="top">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="GIF"/>
     </td>
   </tr>
 </table>
 
----
 
 ### 🚧 Proyectos en desarrollo con:
 - 🔨 Backend con Java + Spring Boot
